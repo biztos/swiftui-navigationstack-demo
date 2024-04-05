@@ -16,7 +16,7 @@ __YMMV! E&OE! Maybe (probably) buggy code! Hic sunt dracones!!!__
 
 ## Notes
 
-Well it turns out that having two List items in teh NavigationStack looks like
+Well it turns out that having two List items in the NavigationStack looks like
 total 💩, which is usually an indication that Apple doesn't like your approach.
 
 So instead we're using a third type which wraps the first two.  Yuck?
